@@ -23,4 +23,4 @@ I bridge the gap between academic research in **Agentic AI** and scalable **Data
 When I'm not architecting agents or analyzing data, I’m exploring. I’m a huge travel enthusiast with a goal to see as many National Parks as possible—ask me about my recent trips to Zion, Bryce Canyon, or the Grand Canyon!
 
 ---
-[ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight) ](https://github.com/anuraghazra/github-readme-stats)
+[ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth15220&show_icons=true&theme=tokyonight) ](https://github.com/anuraghazra/github-readme-stats)
