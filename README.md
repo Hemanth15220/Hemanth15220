@@ -57,9 +57,3 @@ I am a travel enthusiast currently on a journey to visit all US National Parks.
 * **LinkedIn:** [linkedin.com/in/hemanth-kumar-sabbavarapu](https://linkedin.com/in/hemanth-kumar-sabbavarapu-09704b196)
 * **Email:** [hemanthkrishna1520@gmail.com](mailto:hemanthkrishna1520@gmail.com)
 * **Phone:** +1 728-214-9404
-
----
-
-### 📊 My Engineering Metrics
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth15220&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth15220&layout=compact&theme=tokyonight)
